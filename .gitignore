@@ -1,0 +1,17 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+venv/
+env/
+virtualenv/
+virtual_environment/
+
+# IDE/project files
+.vscode/
+.DS_Store
+*.egg-info/
