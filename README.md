@@ -3,6 +3,8 @@
 
 A Streamlit web application that predicts **hospitalization status** (classification) and **severity score** (regression) of patients based on medical and demographic features using machine learning models trained with XGBoost and LightGBM.
 
+🔗 [Deployed Link](https://medicalprediction-zsm2b69ghgjceyjbpv6vg5.streamlit.app/)  
+
 ---
 
 ## 📊 Features
